@@ -18,4 +18,9 @@ immediate help.
 - Maximum of three people can be alerted during emergency situation of user with the help of their contact details. 
 - Above all, various fitness programs are already stored in the cloud storage. 
 - So the user is advised with various kinds of fitness programs through the application with the means of audio and video. 
-- This motivates and improves fitness level of an in
+- This motivates and improves fitness level of an individual.
+
+The solution document can be found [here](https://github.com/Harini-Pavithra/Smart-India-Hackathon_SIH_2019/blob/main/HACKATHON.pdf)
+
+## Architecture Diagram
+![Architecture_Diagram](https://github.com/Harini-Pavithra/Smart-India-Hackathon_SIH_2019/blob/main/Images/Architecture_Diagram.PNG)
